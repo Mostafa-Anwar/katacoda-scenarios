@@ -28,7 +28,7 @@ There are lots of options to be used when **running** container, use ```docker c
 
 While interactive containers are useful for some purposes, developers and operations might want to run non-interactive container for other purposes. In this example we will run a container which displays the time every second in the foreground.
 
-```docker container run mossama/clock```{{execute}}
+```docker container run mossama27/clock```{{execute}}
 
 ![Docker run clock](assets/docker-run-clock.png)
 
