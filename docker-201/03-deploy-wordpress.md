@@ -40,7 +40,7 @@ Finally exit from the side-car container;
 
 Now start a new Wordpress container and link it to the main database container;
 
-```docker container run -d --link wordpress-database:wordpress-database --name wordpress --publish 8000:80 wordpress```{{execute}}
+```docker container run -d --link wordpress-database:wordpress-database --name wordpress --publish 8000:80 wordpress;```{{execute}}
 
 ### Install Wordpress
 
