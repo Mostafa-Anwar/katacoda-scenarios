@@ -44,7 +44,7 @@ And inspect the containers using ```docker container ls -a```{{execute}}
 
 Containers can be started in the background. This is the mostly used way to run containers. You run containers in the background with the `-d` flag (**daemon mode**):
 
-```docker container run -d mossama/clock```{{execute}}
+```docker container run -d mossama27/clock```{{execute}}
 
 ![Docker run daemon mode](assets/docker-container-background.png)
 
