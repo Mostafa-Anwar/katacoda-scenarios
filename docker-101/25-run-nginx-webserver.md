@@ -32,7 +32,7 @@ Open a new tab by clicking on the **+** sign beside the **Terminal** tab;
 
 Clone the repository for the HTML application;
 
-```git clone https://github.com/mossama/simple-html-app.git .```{{execute}}
+```git clone https://github.com/Mostafa-Anwar/simple-html-app.git .```{{execute}}
 
 Build a new image and base it on top of the nginx container, and add our HTML application to the new image. We'll also tag the new image with 1.0.
 
