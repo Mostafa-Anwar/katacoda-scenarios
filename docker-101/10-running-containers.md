@@ -34,8 +34,8 @@ While interactive containers are useful for some purposes, developers and operat
 
 * This container will run forever
 * To stop it, press `Ctrl+C`
-* Docker has automatically downloaded the image `mossama/clock`
-* This image is a user image, created by `mossama`
+* Docker has automatically downloaded the image `mossama27/clock`
+* This image is a user image, created by `mossama27`
 * We will hear more about user images (and other types of images) later
 
 And inspect the containers using ```docker container ls -a```{{execute}}
