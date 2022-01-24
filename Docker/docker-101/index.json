@@ -1,0 +1,42 @@
+{
+  "title": "Getting Started with Containers",
+  "description": "Learn how to launch containers using Docker",
+  "difficulty": "beginner",
+  "time": "30 minutes",
+  "details": {
+    "intro": {
+      "text": "00-intro.md"
+    },
+    "steps": [
+      {
+        "title": "Getting Started with Docker",
+        "text": "05-getting-started-with-docker.md"
+      },
+      {
+        "title": "Running Containers",
+        "text": "10-running-containers.md"
+      },
+      {
+        "title": "Inspecting Containers",
+        "text": "15-inspecting-containers.md"
+      },
+      {
+        "title": "Run MySQL Database",
+        "text": "20-run-mysql-database.md"
+      },
+      {
+        "title": "Run nginx Webserver",
+        "text": "25-run-nginx-webserver.md"
+      }
+    ],
+    "finish": {
+      "text": "99-outro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}
