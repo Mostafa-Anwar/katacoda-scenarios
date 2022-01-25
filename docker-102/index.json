@@ -11,6 +11,14 @@
       {
         "title": "Base Images",
         "text": "05-base-images.md"
+      },
+      {
+        "title": "Build Image from Container",
+        "text": "20-build-image-from-container.md"
+      },
+      {
+        "title": "Build Image from Dockerfile",
+        "text": "25-build-image-from-dockerfile.md"
       }
     ],
     "finish": {
@@ -21,6 +29,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu:2004"
   }
 }
