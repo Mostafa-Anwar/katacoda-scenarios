@@ -1,0 +1,26 @@
+{
+  "title": "Building Container Images",
+  "description": "Learn how to build an image based on your requirements",
+  "difficulty": "beginner",
+  "time": "30-35 minutes",
+  "details": {
+    "intro": {
+      "text": "00-intro.md"
+    },
+    "steps": [
+      {
+        "title": "Base Images",
+        "text": "05-base-images.md"
+      }
+    ],
+    "finish": {
+      "text": "99-outro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}
